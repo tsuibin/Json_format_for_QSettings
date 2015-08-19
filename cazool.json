@@ -1,0 +1,19 @@
+{
+    "Address": {
+        "City": "London",
+        "Country": "Great Britain",
+        "Street": "Downing Street 10"
+    },
+    "Age": 43,
+    "Cazool": {
+        "Address": "China",
+        "Tel": "13888888888",
+        "age": 18
+    },
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Phone numbers": [
+        "+44 1234567",
+        "+44 2345678"
+    ]
+}
